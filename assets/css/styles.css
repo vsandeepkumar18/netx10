@@ -289,6 +289,10 @@ img {
   color: var(--first-color);
 }
 
+.skills__icon-laravel {
+  color: #FF2D20; 
+}
+
 .skills__icon-nodejs { 
   color: #68a063;
 }
@@ -319,6 +323,9 @@ img {
 }
 .skills__html {
   width: 70%;
+}
+.skills__laravel{
+  width: 75%;
 }
 .skills__css {
   width: 90%;
